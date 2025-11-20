@@ -21,10 +21,6 @@ Projektet är skapat för att träna databaser, EF Core och C#-utveckling.
 
 ---
 
-# 🚀 Hur projektet fungerar
-
-## ✔ Databasen (SQLite)
-
 
 
 
